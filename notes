@@ -1,0 +1,12 @@
+{% block name_of_block %}
+stuff
+{% endblock %}
+
+{% extends "parent.html" %}
+
+{% block name_of_block %}
+other stuff
+{% endblock %}
+
+{{ super() }}
+like this. in java
