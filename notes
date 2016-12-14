@@ -10,3 +10,21 @@ other stuff
 
 {{ super() }}
 like this. in java
+
+
+==================================================================
+
+function fnxname(args){
+body;
+}
+no
+
+var fxnname=function(args){
+body;
+};
+yes
+
+dom viewer
+
+ctrl shift j
+

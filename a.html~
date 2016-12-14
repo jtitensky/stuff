@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1 id="h" class="blue">fsa</h1>
+<div id="div1" class="green">asfd</div>
+<div id="div2">sfdsd</div>
+<div class="blue">fsadf</div>
+
+<ol id="thelist">
+<li>afsdf</li>
+<li>afsdf</li>
+<li>afsdf</li>
+</ol>
+
+<script src="foo.js"></script>
+
+</html>
