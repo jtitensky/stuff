@@ -28,3 +28,7 @@ dom viewer
 
 ctrl shift j
 
+DOMelement.classList.add(classnameAsString);
+DOMe_ELEMENT.addEventListener(EVENT,FXNNAME);
+
+events: click, onclick, mouseover, mouseout

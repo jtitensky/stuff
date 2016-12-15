@@ -43,3 +43,19 @@ var red=function(){
 	items[i].classList.add('red');
     }
 };
+
+var buttonCallback=function(e){
+    console.log(e);
+    console.log(this);
+};
+
+var b=document.getElementById('b');
+b.addEventListener('click',buttonCallback);
+
+var redCallback=function(e){
+    console.log(this);
+    this.classList.add('red');
+};
+
+var a=document.getElementById('a');
+a.addEventListener('click',redCallback);
