@@ -32,3 +32,7 @@ DOMelement.classList.add(classnameAsString);
 DOMe_ELEMENT.addEventListener(EVENT,FXNNAME);
 
 events: click, onclick, mouseover, mouseout
+
+document.createElement(htmltagasstring)
+DOMLISTELEMENT.childElementCount
+DOMLISTELEMENT.appendChild(createdelement)
