@@ -1,0 +1,19 @@
+challenges
+    incomplete
+        cant unify with standard model
+    says dark matter/energy exists
+        cant be found
+applications
+    accurate gps
+        time slower on surface
+    gravitational lensing
+        see thing twice
+    gravitational waves
+    black holes
+    time travel
+        godel closed timelike curves
+            closed world line in lorentzian manifold
+            goes past event horizon, gets chronologically censorered from observers
+        tipler cylinder
+            negative energy
+        traversable wormholes		 
